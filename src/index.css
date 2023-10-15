@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(351deg, rgba(128,93,249,1) 0%, rgba(250,177,191,1) 100%);
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+}
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+}

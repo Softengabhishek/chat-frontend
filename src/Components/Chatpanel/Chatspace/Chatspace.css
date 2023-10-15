@@ -1,0 +1,5 @@
+.chat-space{
+    overflow-y: auto;
+    height: 480px;
+    width: 440px;
+}

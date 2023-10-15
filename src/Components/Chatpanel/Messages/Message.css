@@ -1,0 +1,21 @@
+.message{
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.right-msg{
+    flex-direction: row-reverse;
+}
+
+
+.message .text-msg{
+    margin: 0 10px;
+    padding: 5px;
+    font-size: small;
+    background-color: #fff;
+    border-radius: 8px 8px 8px 0;
+}
+.right-msg .text-msg{
+    border-radius: 8px 8px 0 8px;
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=PT+Serif&family=Poppins:wght@100;200;300;400&display=swap');
+
+:root{
+    font-family: 'Poppins', sans-serif;
+    --primary-color : #724FF9;
+    --chat-background-color : #F2EFFF;
+}
+
+::-webkit-scrollbar-track
+{
+	/* -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); */
+	border-radius: 10px;
+	background-color: #ffffff;
+}
+::-webkit-scrollbar
+{   
+	width: 8px;
+	background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #ede9e9;
+}
+
+

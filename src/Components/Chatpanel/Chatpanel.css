@@ -1,0 +1,7 @@
+.chatpanel{
+    padding: 20px;
+    width: 440px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+}

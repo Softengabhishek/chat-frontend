@@ -1,0 +1,7 @@
+.side-profiles{
+    width: 285px;
+    height: 640px;
+    border-right: 2px solid #E5E7F6;
+    overflow-y: scroll;
+    border-radius: 0 0 0 10px;
+}

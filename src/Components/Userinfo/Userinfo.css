@@ -1,0 +1,55 @@
+.side-userinfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    height: 640px;
+    border-left: 2px solid #E5E7F6;
+    border-radius: 0 0 10px 0;
+}
+.user-info-container{
+    margin-top: 10px;
+    width: 175px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    background-color: #fff;
+}
+.cont-1{
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0 0 5px;
+}
+.cont-1 .name{
+    margin: 5px 0;
+}
+.username ,.profession{
+    font-size: x-small;
+}
+.cont-2{
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+
+.user-info-container ul{
+    list-style-type: none;
+}
+.user-info-container ul li{
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    font-size: medium;
+    width: 120px;
+}
+.user-info-container ul li .icon{
+    margin-right: 5px;
+}
+.user-info-container ul li a{
+    text-decoration: none;
+    color: gray;
+    font-size: smaller;
+    font-weight: 400;
+}
+.user-info-container ul li a:hover{
+    color: rgb(0, 0, 0);
+}
